@@ -19,11 +19,7 @@ Or install it yourself as:
 
     $ gem install leajasmine_view_tool
 
-## Usage
 
-```ruby
-DevcampViewTool::Renderer.copyright 'Lea Jasmine', 'All rights reserved'
-```
 
 ## Development
 
