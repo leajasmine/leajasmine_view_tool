@@ -21,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 
-TBD.
+DevcampViewTool::Renderer.copyright 'Lea Jasmine', 'All rights reserved'
 
 ## Development
 
