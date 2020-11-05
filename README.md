@@ -21,7 +21,8 @@ Or install it yourself as:
 
 ## Usage
 
-```DevcampViewTool::Renderer.copyright 'Lea Jasmine', 'All rights reserved'
+```ruby
+DevcampViewTool::Renderer.copyright 'Lea Jasmine', 'All rights reserved'
 ```
 
 ## Development
