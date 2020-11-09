@@ -10,6 +10,7 @@ Gem::Specification.new do |spec|
   spec.description   = %q{Allows user to input name and message for the footer of a website}
   spec.homepage      = "https://github.com/leajasmine/leajasmine_view_tool"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
+  spec.license       = "MIT"
 
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
